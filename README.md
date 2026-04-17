@@ -23,7 +23,11 @@ The architecture review at the end is the interesting part. It reads every rende
 
 ## Installation
 
-Copy the skill into your skills directory:
+```bash
+npx skills add yaambe/synopsis
+```
+
+Or manually copy the skill into your skills directory:
 
 ```bash
 # Clone the repo
