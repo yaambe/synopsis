@@ -1,4 +1,26 @@
-# synopsis
+<h1 align="center">synopsis</h1>
+
+<p align="center">
+  <img width="1280" height="640" alt="Synopsis banner" src="assets/banner.svg">
+</p>
+
+<p align="center">
+  <strong>An agentic skill that generates C4 architecture diagrams from any codebase</strong>
+</p>
+
+<p align="center">
+  <a href="https://makeapullrequest.com">
+    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome" />
+  </a>
+  <a href="https://github.com/yaambe/synopsis/blob/main/LICENSE">
+    <img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" alt="License: MIT" />
+  </a>
+  <a href="https://github.com/yaambe/synopsis/stargazers">
+    <img src="https://img.shields.io/github/stars/yaambe/synopsis?style=flat-square&color=yellow" alt="Stars" />
+  </a>
+</p>
+
+---
 
 An agentic skill that generates C4 architecture diagrams from any codebase and uses vision to review them for architectural vulnerabilities.
 
